@@ -185,7 +185,7 @@ long getDistance() {
 
 
 
-#Code for Master
+# Code for Master
 code for master: #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
